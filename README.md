@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Gabriel Brandão
-
 ### Software Engineering | AI Automation Developer | Data Analyst
 
 ### C++ • JavaScript • HTML • SQL • n8n • PostgreSQL • Supabase • Figma
@@ -72,11 +70,11 @@
 ## 🤝 Let's connect
 
 <p>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gabriel-brand%C3%A3o-borges/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:brandaogabriel204@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
