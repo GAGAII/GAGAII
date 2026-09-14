@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/Git_Profile.gif" width="100%" alt="Gabriel Brandão">
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm Gabriel Brandão
 
