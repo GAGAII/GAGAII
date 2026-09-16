@@ -31,8 +31,10 @@
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,java,swift" />
 </p>
+
+**C++ • JavaScript • HTML • CSS • Java • Swift**
 
 ### ⚙️ Automation & AI
 
@@ -45,10 +47,10 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" />
 </p>
 
-**PostgreSQL • Supabase • SQL**
+**PostgreSQL • Supabase • MYSQL**
 
 ### 🎨 Design & Product
 
