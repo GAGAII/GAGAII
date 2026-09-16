@@ -6,8 +6,6 @@
 
 ### Software Engineering | AI Automation Developer | Data Analyst
 
-### C++ • JavaScript • HTML • SQL • n8n • PostgreSQL • Supabase • Figma
-
 </div>
 
 ---
