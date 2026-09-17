@@ -53,10 +53,10 @@
 ### 🎨 Design & Product
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
 </p>
 
-**Figma • Adobe Photoshop • UI/UX • Product Design**
+**Figma • Adobe Photoshop • Blender • UI/UX • Product Design**
 
 ---
 
